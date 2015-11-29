@@ -1,0 +1,9 @@
+.topic {
+  text-align: center; }
+  .topic .image-preview {
+    animation: fadein .65s ease-out; }
+@keyframes fadein {
+  .topic .image-preview 0%  {
+    opacity: 0; }
+  .topic .image-preview 100%  {
+    opacity: 1.0; } }

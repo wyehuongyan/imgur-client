@@ -1,0 +1,4 @@
+.image-detail .panel-body {
+  text-align: center; }
+.image-detail img, .image-detail video {
+  max-width: 100%; }
